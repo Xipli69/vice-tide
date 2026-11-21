@@ -1,12 +1,7 @@
 # Vice Tide
 
-[![make.fun · gta6-01](https://make.fun/badge/gta6-01.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
-[![rank](https://make.fun/badge/gta6-01/Xipli69/vice-tide/rank.svg)](https://make.fun/bounty/gta6-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
-[![reward](https://make.fun/badge/gta6-01/Xipli69/vice-tide/reward.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
-
 An original top-down open-world crime game for the make.fun **Make GTA 6**
-(gta6-01) bounty — [make.fun/bounty/gta6-01](https://make.fun/bounty/gta6-01).
-Not affiliated with Rockstar Games or Grand Theft Auto;
+(gta6-01) bounty. Not affiliated with Rockstar Games or Grand Theft Auto;
 every name, place and line of code here is new.
 
 Jax Marlowe owes fixer Delia Cross **$8,000** in the harbour city of Port
